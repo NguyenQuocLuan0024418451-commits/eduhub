@@ -1,4 +1,5 @@
 Điểm xuất phát của bài tập Ch02 (xem de-bai.html và rubric.html). Dự án build được ngay, nhưng ClubManager cố tình vi phạm SOLID.
+
 **Việc cần làm**
 Các đoạn // TODO nằm ở:
 Ch02.Refactor/ClubManager.cs: danh sách TODO 1 đến 5 ở đầu file, 
