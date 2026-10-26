@@ -1,0 +1,19 @@
+# Build output
+bin/
+obj/
+TestResults/
+*.log
+
+# IDE
+.idea/
+.vs/
+.vscode/
+*.user
+*.suo
+
+# OS
+.DS_Store
+Thumbs.db
+
+# Runtime file tạo ra bởi ClubManager
+club-log.txt
